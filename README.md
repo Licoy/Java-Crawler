@@ -1,5 +1,5 @@
-# Java-Crawler
-java爬虫
+# JAVA爬虫 - Java-Crawler
+使用java爬虫框架(jsoup)爬取数据
 # 例：爬开源中国最新项目
 ## 调用
 ```
